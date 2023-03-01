@@ -20,7 +20,7 @@ Before the exercise:
 
 - You should have access to this Primer Repo.
 - You should have provided Cookpad with your Github username.
-- You should have arranged a date and time to begin the exercise.
+- Optional: You can arrange a date and time to begin the exercise.
 
 The start of the exercise:
 
