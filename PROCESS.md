@@ -3,7 +3,7 @@
 Someone from our technical team will grant you access to a private Github repo at a time that's
 been pre-arranged with you. The repo will contain instructions and a Rails project.
 
-Try to spend no more than 2 hours on the exercise. Ideally you will spend the 2 hours after getting access to the repo working on the assignment, but if that's not possible (for whatever reason) let us know and we will work something out. Note that we do not want to see every single vulnerability in the test repo fixed, we are more interested in _how_ you resolve them rather than _how many_ you resolve. If you have any questions, we'll provide an email address you can use in the test repo. (Or just ping us on github.)
+Try to spend no more than 2 hours on the exercise. It doesn't have to be all in one go, but do let us know when you're finished (tag us on Github for review). Note that we do not want to see every single vulnerability in the test repo fixed, we are more interested in _how_ you resolve them rather than _how many_ you resolve. If you have any questions, ping us on github.
 
 ## Guidance
 
@@ -24,9 +24,8 @@ Before the exercise:
 
 The start of the exercise:
 
-- At the arranged time, your Github user will receive an invitation to a private repository
-  containing the Exercise. Keep an eye on your e-mails and Github account. The invite will be sent
-  at, or soon after, the arranged time.
+- Your Github user will receive an invitation to a private repository
+  containing the Exercise. Keep an eye on your e-mails and Github account. We'll try to arrange a time so you know when to expect it.
 
 During the exercise:
 
@@ -37,13 +36,10 @@ During the exercise:
 
 To submit the exercise:
 
-- Pull requests should be created from your fork to the original Cookpad repository. We will only
-  consider commits that were created during the 2 hour window - or agreed upon window -- so **don't forget to push your
-  final commit** within the time window. If you prefer to create the pull request to the repo
-  immediately, before beginning work on the solution, that is also fine.
+- Pull requests should be created from your fork to the original Cookpad repository. If you prefer to create pull requests to the repo immediately, before beginning work on the solution, that is also fine. Just make sure to let us know when you're finished.
 
 ## Follow up
 
-We'll confirm that we have received your Pull Request and then the team will review your submission.
+We'll confirm that we have received your Pull Request(s) and then the team will review your submission.
 We'll try to be in touch within 3 working days of your submission to let you know the outcome and to discuss
 any possible next steps.
